@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Welcome!
+
+Not only Hubot, Chocolate enthusiast. 
